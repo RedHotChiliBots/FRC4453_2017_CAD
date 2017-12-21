@@ -1,0 +1,8 @@
+# ignore simulation files
+*.[bB][dD]2
+*.[bB][dD][fF]
+*.[cC][wW][rR]
+*.[lL][oO][gG]
+/~*
+
+
